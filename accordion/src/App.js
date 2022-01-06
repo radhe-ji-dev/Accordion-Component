@@ -2,7 +2,7 @@ import React from "react";
 import Accordion from "./Accordion";
 import { accordionData } from "./content";
 import styles from "./styles.css";
-//just to make a Pra commnet is added here
+//just to make a PR commnet is added here
 const App = () => {
   return (
     <div>
